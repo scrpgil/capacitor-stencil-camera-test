@@ -1,0 +1,6 @@
+{
+  "appId": "com.xiangxingtech.lgtm",
+  "appName": "App",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
