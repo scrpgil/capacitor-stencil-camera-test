@@ -19,7 +19,7 @@
     "@capacitor/core": "^1.0.0-beta.11",
     "@capacitor/ios": "^1.0.0-beta.11",
     "@ionic/core": "4.0.0-beta.16",
-    "@ionic/pwa-elements": "git+https://github.com/scrpgil/ionic-pwa-elements.git#change-dependencies"
+    "@ionic/pwa-elements": "git+https://github.com/scrpgil/ionic-pwa-elements.git#change-dependencies-build"
   },
   "devDependencies": {
     "@stencil/core": "0.15.2",
